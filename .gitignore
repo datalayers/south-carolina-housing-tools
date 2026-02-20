@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated artifacts
+outputs/
+logs/
+debug/
+output/
+*.log
+
+# Downloads / extracted data
+**/zips/
+**/extracted/
+**/*.zip
+**/*.pdf
+**/*.csv
+
+# Local config
+.env
