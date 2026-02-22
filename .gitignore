@@ -24,3 +24,6 @@ output/
 
 # Local config
 .env
+
+# Generated spreadsheets
+*.xlsx
